@@ -1,4 +1,4 @@
-#  Task 1.1 - Data Visualization
+#  Task 1 - Data Visualization
 Here you have to visualize the results on the images. In the folder "Data Visualization" there are two folder
 1. Images - Contains images named as 1.jpg, 2.jpg and so on
 2. Data - Contains metadata in form of JSON file named as 1.json, 2.json and so on
@@ -27,7 +27,7 @@ Visualiztion of Second type but without the confidende score
 
 Note - How  much transparnt the polygon should be as per your taste but the parameter should be tweakble. also implementation using using low level function or from scratch will be prefered over high level one line implementation (e.g. detectron2 visualizer class)
 
-#  Task 2.1 - Damage Classifer
+#  Task 2 - Damage Classifer
 **Objectives :-** You have to train a binary classifier to check if the car is damged or not DataSets you can use 
  https://www.kaggle.com/anujms/car-damage-detection
 You can label more data or use any other dataset you may find on internet it's upto you
