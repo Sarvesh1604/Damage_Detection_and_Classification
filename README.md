@@ -1,8 +1,8 @@
-#  Task 1 - Damage Detection and Visualization
+#  Damage Detection and Visualization
 1. Car damage visulaization using given metadata for sample images
 2. Damage detection, bounding box and labeling using Mask R-CNN 
 
-#  Task 2 - Damage Classifer
+#  Damage Classifer
 Base Model - DenseNet121 (pre-trained on ImageNet data)
 
 Following additional layers are introduced to increase prediction accuracy - 
